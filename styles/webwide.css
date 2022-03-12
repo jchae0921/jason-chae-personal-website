@@ -1,0 +1,12 @@
+html {
+    background-color: #FF5F1F;
+    font-family:'Roboto Slab', 'Syne Mono', 'Playfair Display', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    }
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+

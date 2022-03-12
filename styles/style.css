@@ -1,0 +1,62 @@
+html {
+    background-color: #FF5F1F;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+body {
+    background-color: #FF9500;
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+}
+p, li {
+    font-size: 1.5em;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 4em;
+    text-align: left;
+    padding: 5px;
+    border: 2px dotted red;
+    margin: 10px 0;
+
+}
+h2 {
+    font-size: 3em;
+    text-align: left;
+    padding: 7px;
+    margin: 10px 0;
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style: italic;
+}
+p.bold {
+    text-decoration: underline;
+}
+#introsentence {
+    color: blue;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+div.introduction {
+    margin: 20px;
+    padding: 10px;
+    border: blue 5px;
+}
+
+span.words {
+    font-family: 'Roboto Slab', 'Syne Mono', 'Playfair Display', sans-serif;
+    font-style: normal;
+}
